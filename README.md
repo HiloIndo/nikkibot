@@ -1,1 +1,3 @@
-# nikkibot
+Hai 
+:)
+im nikki
